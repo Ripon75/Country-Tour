@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Country-Tour/static/css/main.0f6b8a01.chunk.css",
+    "main.js": "/Country-Tour/static/js/main.e2d96b52.chunk.js",
+    "main.js.map": "/Country-Tour/static/js/main.e2d96b52.chunk.js.map",
+    "runtime-main.js": "/Country-Tour/static/js/runtime-main.29e77901.js",
+    "runtime-main.js.map": "/Country-Tour/static/js/runtime-main.29e77901.js.map",
+    "static/js/2.0e9ccaee.chunk.js": "/Country-Tour/static/js/2.0e9ccaee.chunk.js",
+    "static/js/2.0e9ccaee.chunk.js.map": "/Country-Tour/static/js/2.0e9ccaee.chunk.js.map",
+    "index.html": "/Country-Tour/index.html",
+    "precache-manifest.01ac6ed008eaad3afcbce08f216256ae.js": "/Country-Tour/precache-manifest.01ac6ed008eaad3afcbce08f216256ae.js",
+    "service-worker.js": "/Country-Tour/service-worker.js",
+    "static/css/main.0f6b8a01.chunk.css.map": "/Country-Tour/static/css/main.0f6b8a01.chunk.css.map",
+    "static/js/2.0e9ccaee.chunk.js.LICENSE.txt": "/Country-Tour/static/js/2.0e9ccaee.chunk.js.LICENSE.txt",
+    "static/media/Ripon_Ahmed.jpg": "/Country-Tour/static/media/Ripon_Ahmed.4dc3d231.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29e77901.js",
+    "static/js/2.0e9ccaee.chunk.js",
+    "static/css/main.0f6b8a01.chunk.css",
+    "static/js/main.e2d96b52.chunk.js"
+  ]
+}
